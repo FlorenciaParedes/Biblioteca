@@ -1,0 +1,13 @@
+body {margin-left: 10%;
+      margin-right: 10%;
+      background-image: url('imagenes/fondo.jpg');
+      background-repeat:no-repeat; background-size: cover;}
+/*.contraseña input[type="password"] */
+
+.busqueda {width: 230px;}
+.catalogo { margin: 0px auto 0px auto;font-family: "Comic Sans MS", "Comic Sans";
+	text-align:center;
+	letter-spacing:1px;
+	word-spacing: 3px; }
+			
+	
